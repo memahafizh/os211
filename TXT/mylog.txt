@@ -26,3 +26,7 @@ ZCZC W03 30 L01 Checking SCELE
 ZCZC W03 15 L03 Checking Github repository
 ZCZC W03 100 L10 Assignment doing top 10 lists and tarball
 ZCZC W03 30 L07 Trying out w02 demo
+ZCZC W04 80 L02 Weekly Zoom Meetings
+ZCZC W04 60 L10 Assignment
+ZCZC W04 60 L05 GSGS related
+ZCZC W04 20 L01 Scele related
