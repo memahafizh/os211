@@ -13,3 +13,4 @@ Operating Systems 2021-1
 * [Week 04](W04/)
 * [Week 05](W05/)
 * [Week 06](W06/)
+* [Week 07](W07/)
