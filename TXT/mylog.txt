@@ -42,3 +42,7 @@ ZCZC W07 80 L02 Weekly Zoom Meetings
 ZCZC W07 30 L01 Scele related
 ZCZC W07 120 L10 Assignment
 ZCZC W07 45 L05 GSGS
+ZCZC W08 80 L02 Weekly Zoom Meetings
+ZCZC W08 240 L10 Assignment
+ZCZC W08 60 L05 GSGS
+ZCZC W08 45 L01 Scele related
